@@ -5,25 +5,25 @@ lambda-zsh-theme is a beautiful zsh theme inspired by the robbyrussell.
 ![](https://github.com/cdimascio/lambda-zsh-theme/blob/master/assets/example.png?raw=true)
 
 ## Install
+Clone this repo, then...
 
-1. Clone this repo, then...
+1. Copy `cdimascio-lambda.zsh-theme` to the themes directory
 
 	```shell
 	cp cdimascio-lambda.zsh-theme ~/.oh-my-zsh/themes
 	```
 
-2. Set cdimascio-lambda as your theme
+2. Set cdimascio-lambda as your default theme
 
 	Open `~/.zshrc` in your favorite editor
 		
-	Find the line that starts with `ZSH_THEME` and set it to:
+	Set the line that starts with `ZSH_THEME` to `ZSH_THEME=cdimascio-lambda`
+
+3. Restart the terminal or source `/.zshrc`
+
 	```shell
-	ZSH_THEME=cdimascio-lambda
-		```
-
-3. source ~/.zshrc
-
-Enjoy!
+	source ~/.zshrc
+	```
 
 ## License
 MIT
