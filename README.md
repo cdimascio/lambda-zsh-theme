@@ -26,4 +26,4 @@ Clone this repo, then...
 	```
 
 ## License
-MIT
+[MIT](LICENSE)
