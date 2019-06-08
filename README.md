@@ -1,10 +1,11 @@
 # lambda-zsh-theme
 
-lambda-zsh-theme is a beautiful zsh theme inspired by the robbyrussell.
+lambda-zsh-theme is a beautiful zsh theme inspired by the the oh-my-zsh [lambda](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/lambda.zsh-theme) theme.
 
 ![](https://github.com/cdimascio/lambda-zsh-theme/blob/master/assets/example.png?raw=true)
 
 ## Install
+
 Clone this repo, then...
 
 1. Copy `cdimascio-lambda.zsh-theme` to the themes directory
@@ -26,4 +27,5 @@ Clone this repo, then...
 	```
 
 ## License
+
 [MIT](LICENSE)
