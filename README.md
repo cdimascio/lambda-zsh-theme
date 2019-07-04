@@ -11,7 +11,9 @@ Clone this repo, then...
 1. Copy `cdimascio-lambda.zsh-theme` to the themes directory
 
 	```shell
-	cp cdimascio-lambda.zsh-theme ~/.oh-my-zsh/themes
+	cp cdimascio-lambda.zsh-theme $ZSH_CUSTOM/themes
+	# or alternatively
+	# cp cdimascio-lambda.zsh-theme ~/.oh-my-zsh/themes
 	```
 
 2. Set cdimascio-lambda as your default theme
