@@ -1,4 +1,4 @@
-# lambda-zsh-theme
+# λ lambda-zsh-theme
 
 lambda-zsh-theme is a beautiful zsh theme inspired by the the oh-my-zsh [lambda](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/lambda.zsh-theme) theme.
 
